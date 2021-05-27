@@ -1,0 +1,8 @@
+.thumbnail-img {
+	height: 80px !important;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100% !important;
+    /*height: 400px !important;*/
+}
